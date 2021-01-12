@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<link rel="stylesheet" type="text/css" href="dash.css" media="screen"/>
+	<link rel="stylesheet" type="text/css" href="vehicle-property.css" media="screen"/>
 	<title>Fahrzeugübersicht</title>
 </head>
 <body>

@@ -1,0 +1,98 @@
+body { 
+	font-family: Roboto,Arial,sans-serif; 
+}
+	
+a{
+	font-size: 1em;
+	}
+input, select, textarea{
+	padding: .6em .9em;
+	width: 98%;
+	font-size: 1em;
+	line-height: 1.55556em;
+	border: 1px solid #CCC;
+}
+
+.input-fieldset {
+    margin: 1.5em 1em;
+}
+
+.btn {
+	border-radius: 10px;
+	font-size: 1.2em;
+	text-decoration: solid;
+	line-height: 1.75em;
+	padding: 5px;
+	float:left;
+	font-weight: bold;
+	margin: 0.2em;
+}
+
+.red {
+	border: 1px solid #fa0019;
+	background: #fa0019;
+	color: #fff;
+	width: 49%;
+}
+
+.red:hover {
+	background: #fff;
+	color: #fa0019;
+}
+
+.grey {
+	border: 1px solid #888;
+	background: #888;
+	color: #fff;
+	width: 49%;
+}
+
+.grey:hover {
+	background: #fff;
+	color: #888;
+}
+
+.blue {
+    border: 1px solid #00378a;
+    background: #00378a;
+	color: #fff;
+}
+
+.blue:hover {
+    background: #fff;
+	color: #00378a;
+}
+
+input[type=checkbox] {
+	transform: scale(1.5);
+}
+input[type=range] {
+	padding-left: 0;
+	padding-right: 0;
+	width: 100%;
+}
+	
+table {
+	width: 100%;
+    max-width: 100%;
+	margin: 20px 0;
+	border-collapse: collapse;
+	text-align: left;
+}
+
+thead th {
+    padding: .6em .9em;
+    line-height: 1.5;
+	color: #fff;
+    background: #00378a;
+}
+
+tbody th {
+    padding: .6em .9em;
+	border-bottom: 1px solid #00378a;
+}
+
+tbody td {
+    padding-left: .9em;
+	border-bottom: 1px solid #00378a;
+}
